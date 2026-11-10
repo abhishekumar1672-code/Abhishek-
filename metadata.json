@@ -1,0 +1,6 @@
+{
+  "name": "ProCut",
+  "description": "Professional video editor with high-precision timeline, GPU rendering engine, proxy workflow, and DaVinci-inspired pro UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
